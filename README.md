@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Shayaan Doodekula</strong> and I'm a <strong>TJHSST</strong> Student, from Ashburn.</p>
+<p align="left">My name is <strong>Shayaan Doodekula</strong> and I'm a <strong>TJHSST</strong> Student.</p>
 
 ###
 
